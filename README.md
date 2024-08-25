@@ -1,3 +1,7 @@
 ## About this project <br/>
 
-This is a straightforward "Data Analysis" project focusing on the video game industry. The project covers fundamental data analysis steps, including data cleaning, analysis of data types, descriptive statistics, datatype conversion, functions for data analysis, data visualization, and more.
+"This project focuses on extracting and analyzing data from the Reddit platform. The project covers steps for:
+- Connecting via the Reddit API;
+- Working with JSON files;
+- Converting the JSON files into dataframes
+- Data Analysis of the dataframe
